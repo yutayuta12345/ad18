@@ -1,0 +1,3 @@
+User-agent: *
+
+sitemap:https://ad18.adult-bank.jp/sitemap.xml
